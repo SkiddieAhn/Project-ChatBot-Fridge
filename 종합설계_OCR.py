@@ -47,7 +47,7 @@ def image_change(image_path):# 영상처리 함수(전처리)
 
 def detectText(img): # 이미지 인식 함수(OCR) / (구글 API 코드) 
 
-    os.environ['GOOGLE_APPLICATION_CREDENTIALS']=r'C:/Users/dlsrn/Downloads/visionapi-345714-015c99714d2d.json' # key가 포함되어 있는 json파일
+    os.environ['GOOGLE_APPLICATION_CREDENTIALS']=r'visionapi-345714-015c99714d2d.json' # key가 포함되어 있는 json파일
     client=vision.ImageAnnotatorClient()
     
     with io.open(img,'rb') as image_file:
