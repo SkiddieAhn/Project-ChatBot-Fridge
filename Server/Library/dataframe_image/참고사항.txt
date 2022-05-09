@@ -1,4 +1,4 @@
 DataFrame을 Image로 변환하는 과정에서 Encoding이 필요함 (한글 깨짐 방지)
-따라서 dataframe_image/_screenshot.py 코드 일부를 수정하였음
+따라서 dataframe_image/_screenshot.py 코드 일부(line 94)를 수정하였음
 
 path: /lib/python3.8/site-packages/dataframe_image/_screenshot.py
