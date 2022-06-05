@@ -1,9 +1,9 @@
 # ChatBot Fridge
-이 프로젝트는 가톨릭대학교의 종합프로젝트설계 과목에서 진행하는 프로젝트입니다.
+2022년 1학기 가톨릭대학교 캡스톤 디자인 프로젝트 (프리지팀)
 
 ## 💡 Description
 <img src="https://user-images.githubusercontent.com/52392658/172043855-64f3d711-032a-4ec1-8a29-449ffa2fa962.jpg" width="230" height="200">
-카카오톡 챗봇을 이용해서 냉장고 속 식품 유통기한을 관리할 수 있습니다!
+카카오톡 챗봇을 이용해서 냉장고 속 식품 유통기한을 관리할 수 있다.
 
 ## 🎞 YouTube Video
 <a href="https://youtu.be/fbPuuA-hL9E" target="_blank">
