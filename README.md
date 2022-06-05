@@ -10,3 +10,6 @@
 ## 🔎How it work
 
 ## 👨‍👨‍👦Team Member
+| <a href="https://github.com/skiddieahn">안성현 (팀장)</a> | <a href="https://github.com/JIWON0520">윤지원</a> | <a href="https://github.com/HanInGoo">한인구</a>
+| :----------: | :----------: | :----------: 
+| Server | Vision | Vision |
