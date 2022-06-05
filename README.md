@@ -1,9 +1,9 @@
-# chatbot_fridge
+# ChatBot Fridge
 이 프로젝트는 가톨릭대학교의 종합프로젝트설계 과목에서 진행하는 프로젝트입니다.
 
 ## 💡Description
-<img src="https://user-images.githubusercontent.com/77263283/156771611-1e1058f4-32f5-4d24-9565-be98d2b90fd4.png" width="200" height="200">
-프리지는 냉장고 속 음식의 유통기한을 관리할 수 있는 챗봇입니다.
+<img src="https://user-images.githubusercontent.com/52392658/172043855-64f3d711-032a-4ec1-8a29-449ffa2fa962.jpg" width="230" height="200">
+카카오톡 챗봇을 이용해서 냉장고 속 식품 유통기한을 관리할 수 있습니다!
 
 ## ⚙Main function
 
