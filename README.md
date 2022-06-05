@@ -5,6 +5,11 @@
 <img src="https://user-images.githubusercontent.com/52392658/172043855-64f3d711-032a-4ec1-8a29-449ffa2fa962.jpg" width="230" height="200">
 카카오톡 챗봇을 이용해서 냉장고 속 식품 유통기한을 관리할 수 있다.
 
+## ⚙ Main Function
+| 아이템 선택 및 리스트 확인                                                                                             |
+|----------------------------------------------------------------------------------------------------------------------|
+| ![number2 (1)](https://user-images.githubusercontent.com/52392658/172047083-6461cd4b-f9d1-4dbe-9c98-550b055c89bb.gif) |
+
 ## 🎞 YouTube Video
 <a href="https://youtu.be/fbPuuA-hL9E" target="_blank">
 <img src="https://user-images.githubusercontent.com/52392658/172044284-471fb3b0-4c52-4b47-8dcc-a270e35ef498.png" width="700" height="393"></a><br>
