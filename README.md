@@ -5,7 +5,7 @@
 ![frg](https://user-images.githubusercontent.com/52392658/172750686-dc39c1bd-b2ac-495f-80dd-483f0a9c835d.jpg)
 
 카카오톡 챗봇을 이용해서 냉장고 속 식품 유통기한을 관리할 수 있습니다.
-[[View](https://shacoding.com/2022/02/07/%ec%97%b0%ea%b5%ac-%ea%b3%bc%ec%a0%9c-duck-farm-604-project/)]
+[[View](https://shacoding.com/2022/06/05/ai-%ea%b8%b0%eb%b0%98-%eb%83%89%ec%9e%a5%ea%b3%a0-%ec%9c%a0%ed%86%b5%ea%b8%b0%ed%95%9c-%ea%b4%80%eb%a6%ac-%ec%b1%97%eb%b4%87-%ec%ba%a1%ec%8a%a4%ed%86%a4-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8/)]
 
 ## ⚙ Main Function
 **아이템 선택 및 리스트 확인**
