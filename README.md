@@ -28,14 +28,14 @@
 <strong>웹 앱:</strong> Django Framework<br>
 <strong>웹 서버:</strong> Apache2 Web Server<br>
 <strong>데이터베이스:</strong> SQLite3<br>
-<strong>챗봇 API:</strong> Kakao I Open Builder<br>
+<strong>챗봇 API:</strong> Kakao I Open Builder [[View](https://i.kakao.com/)]<br>
 
 ### 2. Vision
 <strong>프레임워크:</strong> pyTorch, OpenCV<br>
 <strong>머신러닝 학습 환경:</strong> Colab Pro (T4, P100, 25GB RAM)<br>
 <strong>머신러닝 알고리즘:</strong> YOLOv5<br>
-<strong>식품 정보 API:</strong> 식품의약품안전처_유통바코드<br>
-<strong>OCR API:</strong> Google Cloud Vision<br>
+<strong>식품 정보 API:</strong> 식품의약품안전처_유통바코드 [[View](https://www.data.go.kr/data/15064775/openapi.do)]<br>
+<strong>OCR API:</strong> Google Cloud Vision [[View](https://cloud.google.com/vision/?hl=ko&utm_source=google&utm_medium=cpc&utm_campaign=japac-KR-all-ko-dr-bkws-all-all-trial-e-dr-1009882&utm_content=text-ad-none-none-DEV_c-CRE_601679911354-ADGP_Hybrid%20%7C%20BKWS%20-%20EXA%20%7C%20Txt%20~%20AI%20%26%20ML%20~%20Vision%20AI_Vision-google%20cloud%20vision-en-KWID_43700071503458155-aud-970366092687%3Akwd-203288730967&userloc_1009846-network_g&utm_term=KW_google%20cloud%20vision&gclid=CjwKCAjwkYGVBhArEiwA4sZLuJQP9_E-jUUsb1tPLLr70tAM3ljpEt5Dtz03wsK8N4Ha6mEhJlgbthoCT5wQAvD_BwE&gclsrc=aw.ds)]<br>
 
 
 ## 👨‍👨‍👦Team Member
