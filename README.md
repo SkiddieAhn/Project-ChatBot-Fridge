@@ -2,8 +2,10 @@
 2022년 1학기 가톨릭대학교 캡스톤 디자인 프로젝트 (프리지팀)
 
 ## 💡 Description
-<img src="https://user-images.githubusercontent.com/52392658/172043855-64f3d711-032a-4ec1-8a29-449ffa2fa962.jpg" width="230" height="200">
-카카오톡 챗봇을 이용해서 냉장고 속 식품 유통기한을 관리할 수 있다.
+![frg](https://user-images.githubusercontent.com/52392658/172750686-dc39c1bd-b2ac-495f-80dd-483f0a9c835d.jpg)
+
+카카오톡 챗봇을 이용해서 냉장고 속 식품 유통기한을 관리할 수 있습니다.
+[[View](https://shacoding.com/2022/02/07/%ec%97%b0%ea%b5%ac-%ea%b3%bc%ec%a0%9c-duck-farm-604-project/)]
 
 ## ⚙ Main Function
 **아이템 선택 및 리스트 확인**
