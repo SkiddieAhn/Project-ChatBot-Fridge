@@ -19,7 +19,7 @@
  
 | 아이템 선택 및 리스트 확인                                                                                             |
 |----------------------------------------------------------------------------------------------------------------------|
-| ![number2 (1)](https://user-images.githubusercontent.com/52392658/172047083-6461cd4b-f9d1-4dbe-9c98-550b055c89bb.gif) |
+| ![fridge_the_best](https://user-images.githubusercontent.com/52392658/193202640-bd12c349-e790-423a-99e7-a3ac7f7aeef9.gif) |
 
 ## 🎞 YouTube Video
 <a href="https://youtu.be/fbPuuA-hL9E" target="_blank">
