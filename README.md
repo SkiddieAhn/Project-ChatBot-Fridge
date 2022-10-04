@@ -2,7 +2,7 @@
 2022년 1학기 가톨릭대학교 캡스톤 디자인 프로젝트 (프리지팀) <br>
 
 ## 📰 News
-- 🏆 2022년 1학기 캡스톤 디자인 경진대회 '자연/공학/융합' 부문 대상 (Grand Prize) [[View](https://shacoding.com/2022/06/05/ai-%ea%b8%b0%eb%b0%98-%eb%83%89%ec%9e%a5%ea%b3%a0-%ec%9c%a0%ed%86%b5%ea%b8%b0%ed%95%9c-%ea%b4%80%eb%a6%ac-%ec%b1%97%eb%b4%87-%ec%ba%a1%ec%8a%a4%ed%86%a4-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8/)] 
+- 🏆 2022년 1학기 캡스톤 디자인 경진대회 '자연/공학/융합' 부문 대상 (Grand Prize) [[View](http://capstone.catholic.ac.kr/bbs/board.php?bo_id=cap_notice&wr_id=981)]
 
 
 ## 💡 Description
